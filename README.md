@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Dr. Joseph Hefner | Associate Professor of Anthropology
 
-<!--
-**hefnerj1/hefnerj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!  
+I am an Associate Professor specializing in **forensic anthropology** and **quantitative methods**, with a deep interest in the estimation of ancestry using macromorphoscopic (cranial nonmetric) traits and cranial/postcranial metrics.
 
-Here are some ideas to get you started:
+## 🏛️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Position:** Associate Professor of Anthropology  
+- **Specializations:**
+  - Forensic Anthropology
+  - Quantitative Methods
+  - Machine Learning & Data Mining
+  - Statistical Approaches to Biological Anthropology (biodistance, categorical data, geometric morphometrics, parametric/nonparametric classification)
+- **Certification:** Board Certified Forensic Anthropologist (D-ABFA)
+- **Editorial Role:** Founding Editor, *Forensic Anthropology* (journal)
+- **Memberships:**  
+  Register of Professional Archaeologists, American Association of Anatomists, Sigma Xi  
+  Assessor for the American Society of Crime Laboratory Directors, Laboratory Accreditation Board
+
+## 🧑‍💻 Featured Project
+
+- [MaMD_Publication](https://github.com/hefnerj1/MaMD_Publication):  
+  Standardizing and quantifying macromorphoscopic traits using robust statistical and machine learning methods.
+
+## 🗂️ Current Initiatives
+
+- **Macromorphoscopic Databank**  
+  Establishing a comprehensive databank at Michigan State University, supported by the National Institute of Justice, to advance research in cranial trait analysis and classification.
+
+## 🛠️ Top Skills & Technologies
+
+- **Machine Learning**
+- **R Programming**
+- **Data Mining**
+- **Classification Statistics**
+- **Geometric Morphometrics**
+
+## 👨‍🎓 Mentorship
+
+My graduate students actively participate in ongoing research on cranial macromorphoscopic traits, while pursuing their own academic and applied interests.
+
+## 🏃‍♂️ Fun Facts
+
+- **Long Distance Runner:** Follow my running journey on [Strava](https://www.strava.com/athletes/26274744)
+
+---
+
+> *"The endless need for more data drives innovation in forensic anthropology."*
+
+Feel free to connect or collaborate!
