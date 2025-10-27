@@ -24,6 +24,9 @@ I am an Associate Professor specializing in **forensic anthropology** and **quan
 
 ## 🗂️ Current Initiatives
 
+- **MOSAIC**
+  Methods of Sex, Stature, Affinity and Age for Identification through Computational Standardization, supported by the National Institute of Justice.
+  
 - **Macromorphoscopic Databank**  
   Establishing a comprehensive databank at Michigan State University, supported by the National Institute of Justice, to advance research in cranial trait analysis and classification.
 
