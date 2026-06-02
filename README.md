@@ -33,6 +33,7 @@ I am an Associate Professor specializing in **forensic anthropology** and **quan
 ## 🛠️ Top Skills & Technologies
 
 - **Machine Learning**
+- **Python**
 - **R Programming**
 - **Data Mining**
 - **Classification Statistics**
